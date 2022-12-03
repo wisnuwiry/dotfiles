@@ -1,0 +1,1 @@
+{"schema_version":"1.0","primary_source":{"package":"vscode-langservers-extracted","type":"npm"},"metrics":{"start_time":1669468702506,"completion_time":1669468718246},"links":{"bin":{"vscode-css-language-server":"node_modules\/.bin\/vscode-css-language-server"}},"name":"css-lsp","secondary_sources":[]}

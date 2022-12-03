@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "coc-snippets": ">=3.1.4",
+    "coc-eslint": ">=1.5.8",
+    "coc-json": ">=1.7.0",
+    "coc-flutter": ">=1.9.9",
+    "coc-yaml": ">=1.9.0",
+    "coc-tsserver": ">=2.0.0",
+    "coc-emmet": ">=1.1.6",
+    "coc-tslint-plugin": ">=1.2.0",
+    "coc-css": ">=2.0.0",
+    "coc-html": ">=1.8.0",
+    "coc-prettier": ">=9.3.1"
+  }
+}

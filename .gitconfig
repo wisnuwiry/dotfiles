@@ -1,0 +1,8 @@
+[user]
+	email = wisnuwiry@gmail.com
+	name = Wisnu G. Saputra
+
+[includeIf "gitdir:/Users/wisnusaputra/Works/ZeroOne"]
+    [user]
+        name = Wisnu Ginanjar Saputra
+        email = wisnu@zero-one-group.com

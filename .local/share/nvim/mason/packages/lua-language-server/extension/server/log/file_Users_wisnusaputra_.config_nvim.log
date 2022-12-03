@@ -1,0 +1,242 @@
+[06:06:31.742][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:66]: Lua Lsp startup, root: 	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[06:06:31.742][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:67]: ROOT:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[06:06:31.742][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:68]: LOGPATH:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/log
+[06:06:31.742][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:69]: METAPATH:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta
+[06:06:31.743][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:70]: VERSION:	3.6.4-dev
+[06:06:31.762][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.563 MB
+        # 00 : 1.563 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[06:06:31.766][info] [#0:script/language.lua:137]: VSC language: nil
+[06:06:31.766][info] [#0:script/language.lua:138]: LS  language: en-us
+[06:06:31.766][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///Users/wisnusaputra/.config/nvim
+[06:06:31.766][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/log/file_Users_wisnusaputra_.config_nvim.log
+[06:06:31.767][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///Users/wisnusaputra/.config/nvim
+[06:06:31.768][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///Users/wisnusaputra/.config/nvim
+[06:06:31.768][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua"] = true,
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:06:31.768][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///Users/wisnusaputra/.config/nvim
+[06:06:31.768][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua"] = true,
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:06:31.768][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///Users/wisnusaputra/.config/nvim
+[06:06:31.768][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua"] = true,
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:06:31.768][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[06:06:31.768][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua"] = true,
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:06:31.768][info] [#0:script/library.lua:209]: Init builtin library at:	file:///Users/wisnusaputra/.config/nvim
+[06:06:31.777][info] [#0:script/plugin.lua:86]: plugin path:	/Users/wisnusaputra/.config/nvim
+[06:06:31.777][warn] [#0:script/plugin.lua:101]: plugin not found:	/Users/wisnusaputra/.config/nvim
+[06:06:31.777][info] [#0:script/library.lua:209]: Init builtin library at:	nil
+[06:06:31.782][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[06:06:31.782][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua"] = true,
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:06:31.782][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[06:06:31.783][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua"] = true,
+        ["/opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:06:31.883][info] [#0:script/workspace/workspace.lua:304]: Preload start:	file:///Users/wisnusaputra/.config/nvim
+[06:06:31.884][info] [#0:script/workspace/workspace.lua:310]: Scan files at:	file:///Users/wisnusaputra/.config/nvim
+[06:06:31.885][info] [#0:script/workspace/workspace.lua:304]: Preload start:	<fallback>
+[06:06:31.886][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[06:06:31.888][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua
+[06:06:31.894][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua/vim/lsp
+[06:06:31.895][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[06:06:31.896][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua
+[06:06:31.897][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///opt/homebrew/Cellar/neovim/0.8.0/share/nvim/runtime/lua/vim/lsp
+[06:06:31.999][info] [#0:script/workspace/workspace.lua:347]: Found 59 files at:	<fallback>
+[06:06:31.999][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	<fallback>
+[06:06:31.999][info] [#0:script/workspace/workspace.lua:347]: Found 77 files at:	file:///Users/wisnusaputra/.config/nvim
+[06:06:32.000][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///Users/wisnusaputra/.config/nvim
+[06:06:32.337][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.252] sec: <fallback>
+[06:06:32.337][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: <fallback>
+[06:06:32.337][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	<fallback>
+[06:06:32.337][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	<fallback>
+[06:06:32.364][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[06:06:32.468][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.276] sec: file:///Users/wisnusaputra/.config/nvim
+[06:06:32.468][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///Users/wisnusaputra/.config/nvim
+[06:06:32.468][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///Users/wisnusaputra/.config/nvim
+[06:06:32.468][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	file:///Users/wisnusaputra/.config/nvim
+[06:06:32.504][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim], files count:[66]
+[06:06:32.504][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[06:06:32.653][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim] finished, takes [0.147] sec.
+[06:06:53.855][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim], files count:[67]
+[06:06:53.943][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim] finished, takes [0.088] sec.
+[06:07:15.762][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:15.976][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:18.966][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:21.105][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:32.011][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:32.011][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:32.011][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:32.011][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:32.011][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///Users/wisnusaputra/.config/nvim/lua/custom/init.lua
+[06:07:35.105][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim], files count:[67]
+[06:07:35.193][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim] finished, takes [0.089] sec.
+[06:15:12.048][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim], files count:[66]
+[06:15:12.145][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim] finished, takes [0.096] sec.
+[06:15:15.659][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim], files count:[65]
+[06:15:15.731][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim] finished, takes [0.072] sec.
+[06:16:32.162][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 67.214 MB
+        # 00 : 66.786 MB
+        # 01 : 0.050 MB
+        # 02 : 0.217 MB
+        # 03 : 0.110 MB
+        # 04 : 0.050 MB
+    --------------- Coroutine ---------------
+        Total:     337
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      337
+    --------------- Cache ---------------
+        Total: 13
+        Dead:  12
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[06:22:15.610][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim], files count:[66]
+[06:22:15.681][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim] finished, takes [0.071] sec.
+[06:22:22.632][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim], files count:[67]
+[06:22:22.791][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///Users/wisnusaputra/.config/nvim] finished, takes [0.128] sec.
+[06:26:32.238][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 42.790 MB
+        # 00 : 42.363 MB
+        # 01 : 0.050 MB
+        # 02 : 0.217 MB
+        # 03 : 0.110 MB
+        # 04 : 0.050 MB
+    --------------- Coroutine ---------------
+        Total:     1
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[06:29:29.559][info] [#0:script/provider/provider.lua:170]: Server shutdown.
+[06:29:29.662][info] [#0:script/provider/provider.lua:163]: Server exited.
