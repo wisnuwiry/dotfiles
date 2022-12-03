@@ -203,6 +203,16 @@ local plugins = {
       require("core.utils").load_mappings "whichkey"
     end,
   },
+
+  -- Flutter
+  ["akinsho/flutter-tools.nvim"] = {
+    config = function()
+      pcall(require, "plenary")
+    end,
+    setup = function()
+      require("plugins.configs.flutter").setup()
+    end,
+  }
 }
 
 -- Load all plugins
