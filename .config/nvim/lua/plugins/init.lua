@@ -152,7 +152,6 @@ local plugins = {
 
   ["goolord/alpha-nvim"] = {
     after = "base46",
-    disable = true,
     config = function()
       require "plugins.configs.alpha"
     end,
@@ -205,14 +204,19 @@ local plugins = {
   },
 
   -- Flutter
-  ["akinsho/flutter-tools.nvim"] = {
+  ["akinsho/flutter-tools.nvim"] = {    
     config = function()
-      pcall(require, "plenary")
+      require "plugins.configs.flutter"
+      local present, telescope = pcall(require, "telescope")
+
+      if present then
+        telescope.load_extension("flutter")
+      end
     end,
-    setup = function()
-      require("plugins.configs.flutter").setup()
-    end,
-  }
+  },
+
+  -- Debugger
+  ["mfussenegger/nvim-dap"] = {},
 }
 
 -- Load all plugins
