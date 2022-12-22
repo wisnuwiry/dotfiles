@@ -41,6 +41,11 @@ opt.termguicolors = true
 opt.timeoutlen = 400
 opt.undofile = true
 
+-- Folding
+opt.foldmethod = "indent"
+opt.foldnestmax = 10
+opt.foldlevel = 2
+
 -- interval for writing swap file to disk, also used by gitsigns
 opt.updatetime = 250
 
