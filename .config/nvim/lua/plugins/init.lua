@@ -204,7 +204,7 @@ local plugins = {
   },
 
   -- Flutter
-  ["akinsho/flutter-tools.nvim"] = {    
+  ["akinsho/flutter-tools.nvim"] = {
     config = function()
       require "plugins.configs.flutter"
       local present, telescope = pcall(require, "telescope")
@@ -217,6 +217,9 @@ local plugins = {
 
   -- Debugger
   ["mfussenegger/nvim-dap"] = {},
+
+  -- Wakatime
+  ["wakatime/vim-wakatime"] = {},
 }
 
 -- Load all plugins
