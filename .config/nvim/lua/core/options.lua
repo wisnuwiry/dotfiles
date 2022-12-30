@@ -27,7 +27,6 @@ opt.mouse = "a"
 
 -- Numbers
 opt.number = true
-opt.relativenumber = true
 opt.numberwidth = 2
 opt.ruler = false
 
@@ -40,11 +39,6 @@ opt.splitright = true
 opt.termguicolors = true
 opt.timeoutlen = 400
 opt.undofile = true
-
--- Folding
-opt.foldmethod = "indent"
-opt.foldnestmax = 10
-opt.foldlevel = 2
 
 -- interval for writing swap file to disk, also used by gitsigns
 opt.updatetime = 250

@@ -2,8 +2,12 @@
 
 local M = {}
 
+require "options"
+
 M.ui = {
   theme = "tokyonight",
 }
+
+M.plugins = require "custom.plugins"
 
 return M
