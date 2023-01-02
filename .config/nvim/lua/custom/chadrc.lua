@@ -2,12 +2,11 @@
 
 local M = {}
 
-require "options"
-
 M.ui = {
   theme = "tokyonight",
 }
 
 M.plugins = require "custom.plugins"
+M.mappings = require "mappings"
 
 return M
