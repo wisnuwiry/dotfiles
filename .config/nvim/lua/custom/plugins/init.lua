@@ -1,12 +1,5 @@
-local overrides = require "custom.plugins.configs.overrides"
-
 -- Custom plugins
 return {
-	-- overrde plugin configs
-  ["kyazdani42/nvim-tree.lua"] = {
-    override_options = overrides.nvimtree,
-  },
-
   -- Flutter
   ["dart-lang/dart-vim-plugin"] = {},
   ["thosakwe/vim-flutter"] = {},
