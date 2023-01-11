@@ -9,15 +9,9 @@ return {
 
   -- Flutter
   ["dart-lang/dart-vim-plugin"] = {},
-  ["thosakwe/vim-flutter"] = {
-    after = "dart-vim-plugin"
-  },
-  ["natebosch/vim-lsc"] = {
-    after = "dart-vim-plugin"
-  },
-  ["natebosch/vim-lsc-dart"] = {
-    after = "dart-vim-plugin"
-  },
+  ["thosakwe/vim-flutter"] = {},
+  ["natebosch/vim-lsc"] = {},
+  ["natebosch/vim-lsc-dart"] = {},
 
   -- Git
   ["kdheepak/lazygit.nvim"] = {
