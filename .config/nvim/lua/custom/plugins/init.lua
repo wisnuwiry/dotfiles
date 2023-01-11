@@ -7,14 +7,7 @@ return {
   ["natebosch/vim-lsc-dart"] = {},
 
   -- Git
-  ["kdheepak/lazygit.nvim"] = {
-    config = function()
-      local present, telescope = pcall(require, "telescope")
-      if present then
-        telescope.load_extension("lazygit")
-      end
-    end,
-  },
+  ["kdheepak/lazygit.nvim"] = {},
 
   -- Wakatime
   ["wakatime/vim-wakatime"] = {},
