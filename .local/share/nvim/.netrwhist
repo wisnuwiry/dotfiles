@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/Users/wisnusaputra/.config/nvim'
-let g:netrw_dirhist_6='/Users/wisnusaputra/Works/Learning/vim/vim-nav-playground/src'
-let g:netrw_dirhist_5='/Users/wisnusaputra/Works/ZeroOne/sebamed-v2/apps/mobile/lib/src/app/config'
-let g:netrw_dirhist_4='/Users/wisnusaputra/Works/ZeroOne/sebamed-v2/apps/mobile/lib/src/app'
-let g:netrw_dirhist_3='/Users/wisnusaputra/Works/ZeroOne/sebamed-v2/apps/mobile/lib/src'
-let g:netrw_dirhist_2='/Users/wisnusaputra/Works/ZeroOne/sebamed-v2/apps/mobile/lib'
-let g:netrw_dirhist_1='/Users/wisnusaputra/Works/ZeroOne/sebamed-v2/apps/mobile'
