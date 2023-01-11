@@ -1,9 +1,9 @@
-[06:06:31.742][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:66]: Lua Lsp startup, root: 	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server
-[06:06:31.742][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:67]: ROOT:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server
-[06:06:31.742][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:68]: LOGPATH:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/log
-[06:06:31.742][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:69]: METAPATH:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta
-[06:06:31.743][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:70]: VERSION:	3.6.4-dev
-[06:06:31.762][info] [#0:script/service/service.lua:141]: 
+[17:39:49.350][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:66]: Lua Lsp startup, root: 	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[17:39:49.350][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:67]: ROOT:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[17:39:49.350][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:68]: LOGPATH:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/log
+[17:39:49.350][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:69]: METAPATH:	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta
+[17:39:49.351][info] [#0:/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:70]: VERSION:	3.6.4-dev
+[17:39:49.367][info] [#0:script/service/service.lua:141]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 1.563 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[06:06:31.766][info] [#0:script/language.lua:137]: VSC language: nil
-[06:06:31.766][info] [#0:script/language.lua:138]: LS  language: en-us
-[06:06:31.766][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///Users/wisnusaputra/.config/nvim
-[06:06:31.766][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/log/file_Users_wisnusaputra_.config_nvim.log
+[17:39:49.369][info] [#0:script/language.lua:137]: VSC language: nil
+[17:39:49.369][info] [#0:script/language.lua:138]: LS  language: en-us
+[17:39:49.369][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///Users/wisnusaputra/dotfiles/.config/nvim
+[17:39:49.369][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/Users/wisnusaputra/.local/share/nvim/mason/packages/lua-language-server/extension/server/log/file_Users_wisnusaputra_dotfiles_.config_nvim.log
