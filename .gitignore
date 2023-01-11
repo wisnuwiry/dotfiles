@@ -1,1 +1,34 @@
-.DS_Store
+# General
+*.DS_Store
+
+# Mobile
+.android/
+.dartServer/
+.gradle/
+.m2/
+.pub-cache/
+.swiftpm/
+.cocoapods/
+
+# Web
+.npm/
+.yarn/
+.jupyter/
+.anaconda/
+
+# Rust
+.cargo/
+.rustup/
+
+# Vim
+.wakatime/vim_shared_state
+.viminfo
+
+# Text Editor
+.vscode/extensions/
+
+# Tools
+.wakatime-internal.cfg
+.mysql_history
+.wakatime.bdb
+.wakatime.log
