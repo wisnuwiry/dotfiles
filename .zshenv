@@ -1,5 +1,5 @@
 # Core
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin"
 
 # Flutter
 export PATH="$PATH:$HOME/Dev/flutter/bin"
@@ -19,4 +19,3 @@ export PATH="$PATH:$HOME/.composer/vendor/bin"
 # Ngrok
 export PATH="$PATH:$HOME/Dev"
 . "$HOME/.cargo/env"
-

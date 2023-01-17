@@ -11,4 +11,7 @@ return {
 
   -- Wakatime
   ["wakatime/vim-wakatime"] = {},
+
+  -- Tools
+  ["voldikss/vim-floaterm"] = {},
 }
