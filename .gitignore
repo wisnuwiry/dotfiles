@@ -27,6 +27,9 @@
 # Text Editor
 .vscode/extensions/
 
+# Git
+.ssh/
+
 # Tools
 .wakatime-internal.cfg
 .mysql_history
