@@ -1,6 +1,6 @@
 [user]
-	email = wisnuwiry@gmail.com
-	name = Wisnu G. Saputra
+    name = Wisnu G Saputra
+    email = wisnuwiry@gmail.com
 
 [includeIf "gitdir:/Users/wisnusaputra/Works/ZeroOne"]
     [user]
